@@ -1,10 +1,10 @@
 ## MIT License
 
-- Telif Hakkı (c) [2023] [Ahmet Akif Cetin]
+- Telif Hakkı (c) 2023 Ahmet Akif Cetin
 
 ## License 2023
 
-- Bu yazılım ve ilgili belgelendirme dosyaları ("LineRobot"), aşağıdaki koşullara tabidir:
+- Bu yazılım ve ilgili belgelendirme dosyaları ("Line Robot"), aşağıdaki koşullara tabidir:
 
 - Yazılımın kopyalarını ve/veya yazılımın kullanımını sağlayan kişilere sınırlama olmadan izin verilir, aşağıdaki işlemleri gerçekleştirmek üzere:
 
